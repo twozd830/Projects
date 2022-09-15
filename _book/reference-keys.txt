@@ -30,4 +30,3 @@ countries-data
 housing-prices-prediction
 customer-churn-prediction
 weather-visualization
-url-your-book-url-like-httpsbookdown.orgyihuibookdown

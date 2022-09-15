@@ -20,8 +20,7 @@ csl: chicago-fullnote-bibliography.csl
 A diligent and proactive newly-graduate
 student majoring in Applied
 Mathematics who strives to pose and
-answer questions with quantitative-
-driven insights. Have 1+ years of
+answer questions with quantitative-driven insights. Have 1+ years of
 experience in data analytics and
 financial analysis. Familiar with
 collecting, analyzing and interpreting
@@ -32,5 +31,3 @@ to detail and a significant ability to
 work in a team. Commit to bring the
 highest work effectiveness in a
 dynamic and fast-paced company.
-
-<a href="https://drive.google.com/drive/u/1/folders/1xqzMofw8pnyY03HDLHzimFRJjh3uBBUA">Academic Projects</a> | <a href="https://drive.google.com/drive/u/1/folders/1gujhI-TmDN2aka95hIY7FWmpI2T2Pyt6">DataCamp Ceritificates</a>
