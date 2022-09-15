@@ -1,3 +1,8 @@
 # (PART) Personal Projects {.unnumbered}
 
-# Wage Determinants
+# Housing Prices Prediction
+
+# Customer Churn Prediction
+
+# Weather Visualization
+

@@ -27,5 +27,7 @@ mortality-rates
 survival-probablity
 life-expectancy
 countries-data
-wage-determinants-1
+housing-prices-prediction
+customer-churn-prediction
+weather-visualization
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
