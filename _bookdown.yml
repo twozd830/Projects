@@ -4,8 +4,9 @@ new_session: true
 rmd_files: [
   "index.Rmd",
   
-  "01-intro.Rmd"
-
+  "aboutme.Rmd",
+  "academicprojects.Rmd",
+  "personalprojects.Rmd"
 ]
 
 before_chapter_script: _common.R

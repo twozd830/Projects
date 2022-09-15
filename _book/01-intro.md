@@ -115,14 +115,3 @@ Graduation Thesis: Use Machine Learning Algorithms to Predict The Number of Prod
 <li>Working with Data in the Tidyverse</li>
 <li>Working with Web Data in R</li>
 
-# (PART) Projects {.unnumbered}
-
-# Project 1
-
-# Project 2
-
-# Project 3
-
-# (PART) Additional Info {.unnumbered}
-
-# Project 1
